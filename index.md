@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+## Kimberly Eke, Ph.D.
+
+Kimberly Eke, Ph.D. is the **Senior Director for Information Technology** at Penn's Graduate School of Education, ranked second in the nation. As a member of the senior administrative team, she helps advance the strategic goals of the University and the School by aligning IT strategy in areas of research support, data integrity and security, learning space design, student success, project management, and other key initiatives. She leads agile teams responsible for end-user support, academic and classroom technologies, and web design and development. With an eye toward toward the future, she and her team explore and evaluate leading-edge, scalable technology services to meet the emerging needs and aspirations of approximately 1,500 faculty, students, and staff.
+
+
 
 You can use the [editor on GitHub](https://github.com/kimeke/bio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
